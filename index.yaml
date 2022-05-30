@@ -3,6 +3,16 @@ entries:
   cloudflared:
   - apiVersion: v2
     appVersion: 2022.5.1
+    created: "2022-05-30T08:40:15.851900358Z"
+    description: A Helm chart for Kubernetes
+    digest: 31204d042532f17bde993c223c8b86f22e41670245e5549b0f81a92fd3fa0b4a
+    name: cloudflared
+    type: application
+    urls:
+    - https://github.com/jonasclaes/helm-cloudflared/releases/download/cloudflared-0.1.1/cloudflared-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 2022.5.1
     created: "2022-05-30T10:32:28.679731941+02:00"
     description: A Helm chart for Kubernetes
     digest: a465fe0bc2eab477f13184a3b707a8e15f31662ac3fcba2de48a516d56d21c67
