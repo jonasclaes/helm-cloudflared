@@ -11,7 +11,7 @@ This chart makes it easy to deploy an instance (or multiple instances) of `cloud
 ## Usage
 This is a usage example based on the cloning of this repo.
 ```bash
-helm install cloudflared . --values values.yaml --set token=<your tunnel token>
+helm install cloudflared cloudflared --values cloudflared/values.yaml --set token=<your tunnel token>
 ```
 
 ## To do
